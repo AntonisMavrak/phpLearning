@@ -37,6 +37,7 @@
 		$array2 = array("age" => "15", "code" => "124", "variable" => $number1)
 
 
+
 		?>
 
 	
