@@ -25,6 +25,7 @@
 
  */
 
+
  if(1 == 2){
 
  }elseif(3 > 5){
@@ -56,7 +57,6 @@
 		echo "Im in case 6";
 		break;
 	}
-?>
 
 
 
