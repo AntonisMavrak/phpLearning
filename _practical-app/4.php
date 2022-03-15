@@ -23,6 +23,18 @@
 
  */
 
+ function ok(){
+	 echo 12+42;
+ }
+
+ function sumNum($num1, $num2){
+	 return $num1 + $num2;
+ }
+
+ ok();
+ echo "<br>";
+ echo sumNum(41,9);
+
 	
 ?>
 
