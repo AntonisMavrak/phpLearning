@@ -28,7 +28,14 @@
 		 
 			 */
 
-		
+		$number1 = 10;
+		$number2 = 20;
+
+		echo $number1 + $number2;
+
+		$array1 = array(15, "124", $number1);
+		$array2 = array("age" => "15", "code" => "124", "variable" => $number1)
+
 
 
 		?>

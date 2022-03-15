@@ -25,8 +25,38 @@
 
  */
 
+
+ if(1 == 2){
+
+ }elseif(3 > 5){
+
+ }else{
+	echo "I love PHP";
+ };
+
+ echo "<br>";
 	
-?>
+ for($i=0; $i<=10; $i++){
+	 echo $i;
+ };
+
+ echo "<br>";
+
+ $key = 6;
+
+ switch($key){
+	case 1:
+		echo 1;
+		break;
+	
+	case 2:
+		echo 2;
+		break;
+	
+	case 6:
+		echo "Im in case 6";
+		break;
+	}
 
 
 
