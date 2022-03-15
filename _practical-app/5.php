@@ -25,6 +25,13 @@
 
  */
 
+echo rand(1, 100);
+echo "<br>";
+echo strtoupper("Im a programmer");
+echo "<br>";
+$pin = array(12, 5122531, 35, 12); 
+echo max($pin);
+
 	
 ?>
 
